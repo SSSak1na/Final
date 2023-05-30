@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\big-mac.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\big-mac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\branding.png",
+      "PackagePath": "staticwebassets\\assets\\img\\branding.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\fav.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\logo-big-NEW.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-big-NEW.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\pm-brand.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pm-brand.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\logo\\1tl\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\logo\\1tl\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\logo\\chocodiles\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\logo\\chocodiles\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\print\\blackwelling\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\print\\blackwelling\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\web\\sajath\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\web\\sajath\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\web\\sajath\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\web\\sajath\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\web\\sankalana\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\web\\sankalana\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\web\\udara\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\web\\udara\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\portfolio\\web\\whoor\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\web\\whoor\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\print.png",
+      "PackagePath": "staticwebassets\\assets\\img\\print.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\sm-sprite.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sm-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\user3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\user3.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\web-design.png",
+      "PackagePath": "staticwebassets\\assets\\img\\web-design.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\web-dev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\web-dev.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\workspace-main.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\workspace-main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\workspace-sub.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\workspace-sub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\queryloader.js",
+      "PackagePath": "staticwebassets\\assets\\js\\queryloader.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\Final Exam\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\singlepagenav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\singlepagenav.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalProject.props",
+      "PackagePath": "build\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalProject.props",
+      "PackagePath": "buildMultiTargeting\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalProject.props",
+      "PackagePath": "buildTransitive\\FinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
